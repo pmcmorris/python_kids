@@ -10,4 +10,5 @@ Just go back and read the earlier examples until you find the missing idea.
 # Contents
 
 1. hello [[doc](basics/01_hello.md)] [[code](../code/basics/01_hello.py)]
+2. comments [[doc](basics/02_comments.md)] [[code](../code/basics/02_comments.py)]
 

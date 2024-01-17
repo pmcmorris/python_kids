@@ -1,5 +1,7 @@
 # Hello
 
+Source: [[01_hello.py](../../code/basics/01_hello.py)]
+
 This is one of the simplest programs.
 It should just write "hello" to the console when you run it.
 But there are a bunch of new concepts in this program that we haven't explained yet.
