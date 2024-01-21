@@ -13,3 +13,4 @@ Terms to define
 - source
 - code
 - source code
+- whitespace

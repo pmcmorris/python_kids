@@ -11,4 +11,5 @@ Just go back and read the earlier examples until you find the missing idea.
 
 1. hello [[doc](basics/01_hello.md)] [[code](../code/basics/01_hello.py)]
 2. comments [[doc](basics/02_comments.md)] [[code](../code/basics/02_comments.py)]
+2. statements [[doc](basics/03_statements.md)] [[code](../code/basics/03_statements.py)]
 
