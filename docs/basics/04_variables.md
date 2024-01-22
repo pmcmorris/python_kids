@@ -52,31 +52,4 @@ The above program will write this output:
 
 Even though both print statements looked the same `print(score)`, the second statement printed something different because the variable was now holding a different value.
 
-You can also make as many variables as you want:
-
-```python
-name = "Zaphod Beeblebrox"
-score = 10
-print("Name:", name)
-print("Score:", score)
-```
-
-Notice that we can print more than one thing at a time by **passing** multiple things to a function separated by commas `,` between the brackets `()`.
-The print function will write out multiple values to the same line separated by spaces.
-The above program will write this output:
-
-```
-Name: Zaphod Beeblebrox
-Score: 10
-```
-
-You might have noticed that we used different kinds of values called `types`.
-We set the value of `score` to `10` which is a number.
-But The `name` variable is a set to a couple words between quotes.
-Programmers call these sequences of characters a `String`.
-There many different types of values in Python.
-We can do a lot with just strings and numbers.
-So that will do for the moment.
-But we'll introduce more later.
-
-
+You can also make as many variables so long as you give them different names.

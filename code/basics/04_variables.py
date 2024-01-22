@@ -1,11 +1,16 @@
-# Variables to store information about the player
-name = "Zaphod"
-score = 10
-money = 200
-lives = 3
 
-# Statements to display player information
-print("Name:", name)
-print("Score:", score)
-print("Money:", money)
-print("Lives:", lives)
+# create a variable
+score = 10
+print(score)
+
+# change a variable
+score = 20
+print(score)
+
+# create many variables
+age = 6
+score = 20
+bonus = 3
+print(age)
+print(score)
+print(bonus)

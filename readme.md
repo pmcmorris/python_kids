@@ -2,7 +2,7 @@
 
 Welcome to Python Kids!
 
-The is where you'll find tutorials for young kids looking to get into programming.  How old is old enough to code?  If you can read then you can learn to program computers.
+The is where you'll find tutorials for young kids looking to get into programming.  How old is old enough to code?  If you can read then you can learn to program computers. This tutorial is aimed at children as young as 5-6.  You might need a parent now and then but you can do it.
 
 If this is your first time here then you might need to follow the [Setup Guide](docs/setup.md) first.
 
