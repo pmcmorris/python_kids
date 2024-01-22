@@ -14,4 +14,5 @@ Just go back and read the earlier examples until you find the missing idea.
 3. statements [[doc](basics/03_statements.md)] [[code](../code/basics/03_statements.py)]
 4. variables [[doc](basics/04_variables.md)] [[code](../code/basics/04_variables.py)]
 5. types [[doc](basics/05_types.md)] [[code](../code/basics/05_types.py)]
+6. operations [[doc](basics/06_operations.md)] [[code](../code/basics/06_operations.py)]
 
