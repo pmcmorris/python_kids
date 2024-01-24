@@ -1,3 +1,11 @@
+# let make the computer do some math for us
+print(1 + 1) # addition:       writes 2
+print(1 - 1) # subtraction:    writes 0
+print(2 * 3) # multiplication: writes 6
+print(4 / 2) # division:       writes 2
+
+# Now let's use some operations and assignment to update variables
+
 # keep adding to score (the long way)
 score = 0          # start at zero
 score = score + 5  # add 5 to score
