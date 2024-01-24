@@ -91,19 +91,10 @@ But that would be a lot of work for you.
 Another approach would be to take your letter to a translator and have them convert it into German.
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    english["`
-        **English Letter:**
-        Good morning!
-    `"]
-    translator(["`
-        **Translator**
-    `"])
-    german["`
-        **German Letter:**
-        Guten Morgen!
-    `"]
+    english[<b>English Letter:</b><br/>Good morning!]
+    translator([<b>Translator</b>])
+    german[<b>German Letter:</b><br/>Guten Morgen!</b>]
     english--> translator
     translator --> german
 ```
